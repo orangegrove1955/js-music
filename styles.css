@@ -1,4 +1,78 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Livvic', sans-serif;
 }
+
+.social{
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+}
+
+.social a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: black;
+}
+
+.app{
+    padding-top: 2vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 98vh;
+    width: 100%;
+}
+
+.app p {
+    margin-top: 0.5rem;
+    color: grey;
+}
+
+header{
+    text-align: center;
+}
+
+.pads{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.pads > div {
+    height: 5rem;
+    flex: 1;
+}
+
+@media screen and (orientation: portrait) {
+    .pads > div{
+        flex: 2 0 33%;
+    }
+}
+
+#pad1{
+    background: #60d394;
+}
+
+#pad2{
+    background: #d36060;
+}
+
+#pad3{
+    background: #c050d3;
+}
+
+#pad4{
+    background: #d3d160 ;
+}
+
+#pad5{
+    background: #6860d3;
+}
+
+#pad6{
+    background: #60b2d3;
+}
+
