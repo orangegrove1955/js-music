@@ -8,4 +8,4 @@ This project uses vanilal javascript and CSS to create a simple music app that w
 - Flex-grow
 
 # Demo
-A live demo can be viewed [here](#)
+A live demo can be viewed [here](https://orangegrove1955.github.io/js-music/)
