@@ -6,6 +6,11 @@ This project uses vanilal javascript and CSS to create a simple music app that w
 - HTML `audio` tag
 - Flexbox wrapping
 - Flex-grow
+- Play audio via Javascript
+- Adding elements to the DOM with Javascript
+- Adding animations to elements from Javascript
+- Animation listeners
+- Removing elements from the DOM with Javascript
 
 # Demo
 A live demo can be viewed [here](https://orangegrove1955.github.io/js-music/)
